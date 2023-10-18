@@ -14,6 +14,8 @@ Eu sou um cientista de dados, biólogo marinho com mestrado e doutorado em Ecolo
   <img align="center" alt="numpy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/>
   <img align="center" alt="sckiti" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img align="center" alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"/>
- </div></br>
+</div></br>
+Mais: Seaborn, Matplotlib, StatsModels.</br>
+</br>
 
-Email Contato: joaoluis.carraro@gmail.com
+### Email Contato: joaoluis.carraro@gmail.com
